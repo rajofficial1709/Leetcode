@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/rajofficial1709/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rajofficial1709/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajofficial1709/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajofficial1709/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajofficial1709/Leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rajofficial1709/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
