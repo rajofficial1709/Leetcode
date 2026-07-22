@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/rajofficial1709/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rajofficial1709/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajofficial1709/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/rajofficial1709/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/rajofficial1709/Leetcode/tree/master/0162-find-peak-element) |
 | [0441-arranging-coins](https://github.com/rajofficial1709/Leetcode/tree/master/0441-arranging-coins) |
