@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rajofficial1709/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rajofficial1709/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajofficial1709/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajofficial1709/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajofficial1709/Leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
