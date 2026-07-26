@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rajofficial1709/Leetcode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rajofficial1709/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rajofficial1709/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
