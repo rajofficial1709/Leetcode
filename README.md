@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rajofficial1709/Leetcode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/rajofficial1709/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajofficial1709/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajofficial1709/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajofficial1709/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rajofficial1709/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajofficial1709/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/rajofficial1709/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/rajofficial1709/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajofficial1709/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/rajofficial1709/Leetcode/tree/master/0709-to-lower-case) |
